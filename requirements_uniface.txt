@@ -1,0 +1,4 @@
+numpy==2.5.4
+opencv-python==5.0.0.93
+uniface==4.2.1
+onnxruntime==1.31.1
