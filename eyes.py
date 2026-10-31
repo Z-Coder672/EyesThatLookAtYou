@@ -4,6 +4,7 @@ class eyeWindow:
 
         self.wn = turtle.Screen()
         self.wn.bgcolor("black")
+        self.wn.title("These Eyes Will Look at You")
         self.wn.setup(width = 1.0, height = 1.0)
         turtle.tracer(0)
 
